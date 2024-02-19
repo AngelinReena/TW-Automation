@@ -1,0 +1,23 @@
+Validate user should be able to take backup when user selected recovery phase as options 
+Validat user should be able to take recovery and backup within the same session for user 2
+Validate android user should be able to recover their account in ios through recovery phrase 
+Validate the error message on selecting incorrect password
+Verify backing up wallet post fresh login 
+verify on clicking secret phrase should navigate user to select network 
+"Verify on choosing network, wallet name with secret phrase entry is displayed "
+Verify scan code option is visible and functional in top right corner 
+"Verify on choosing scan code ,enter qr code /other relevant option is functional "
+Verify on using exisitng email address now manual option under wallet should be back up now 
+Verify the relevant network wallet gets restored on succesfull completion 
+"Validate user can place order successfully for swap,buy/sell ,deposit/withdraw after wallet recovery "
+"Verify on clicking Google drive option change account can be done ,by choosing the different /same email address and restore "
+Verify on choosing an exisitng wallet name encryption password page should appear 
+Verify restore wallet option is functional on entering password
+Verify on restoring the wallet Create passcode screen should appear 
+Verify using the exisitng email successful creation of wallet happens
+Verify on clicking google drive option new gmail id can be choosen to create a new one 
+Verify if user is able to use keystore and restore the wallet
+Verify is user is able to use private key and restore the wallet 
+"Verify ""PASTE "" works on restore using phrase,keystore,private key"
+Verify user should be able to track assets of other wallets
+Verify user is able to give wallet name and address to opt for view only wallet 

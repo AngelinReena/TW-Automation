@@ -1,0 +1,16 @@
+To test use case for Manage crypto Show/Remove
+Verify on create wallet choosing manage crypto from home page should display with tokens 
+Verify toggle on/off works for every token 
+Verify searching for an invalid token 
+Verify on toggle off all the tokens in home page relevant message should be displayed 
+Verifying toggle on the respective tokens should only be displayed 
+Verify on tapping the token name in search box the relevant search result should be displayed 
+Verify on clearing the search box the appearance should clear 
+Verify on clicking any token the respective redirection happens
+Verify crypto deposit flow for a token 
+Verify crypto withdrawal flow for a token 
+Verify the buy flow of a token 
+Verify the sell flow of a token 
+Verify the drop down option on top left corner is accessible and can choose any network 
+"When toggle is off and on clicking any token buy/sell,deposit/withdraw,swap "
+"Verify in manage crypto when a token is toggled off ,view the UI of token on clicking the respective"

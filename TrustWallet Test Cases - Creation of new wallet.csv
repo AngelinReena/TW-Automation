@@ -1,0 +1,79 @@
+To test use case of creation of new wallet 
+Verify creating wallet post sign up 
+Verify if user is able to click create new wallet from home page for an existing user
+Verify before creation of wallet if user clicks on any token connect wallet popup appears with create new wallet listing
+Verify before creation of wallet if user clicks on token from swap/earn page Connect wallet popup should appear with create new wallet listing 
+Verify for the UI and phrases in create new wallet option
+"Verify on tapping Create new wallet ""Backup"" secret phrase screen should appear "
+"Verify for back button functionality on ""Backup""secret phrase screen"
+
+"To test use cases ""SKIP"" option "
+"Verify for ""Skip"" functionality in ""Backup"" secret phrase screen"
+Verify the UI for the back up phrase screen 
+"Verify on tapping skip ""Create passcode screen "" appears "
+Verify the UI of Create passcode screen with security text
+Verify if passcode can be entered and erased 
+Verify if passcode mismatch is handled while tapping on incorrect code in confirm passcode screen 
+Verify on entering correct passcode the apge navigates to confirm passcode screen 
+Verify on entering incorrect passcode in confirm passcode screen the page navigates to create passcode screen 
+
+"To test use cases ""BACKUP MANUALLY """
+Verify Back up manually functionality from back up secret phrase page
+Verify on clicking back up manually navigates the page to checkbox the important phrase listing 
+Verify if the listing can be checked/unchecked 
+Verify if only on clicking all the checkboxes continue option gets enabled 
+"verify on clicking continue option ""Secret phrase "" page appears "
+"verify for ""copy to clipboard"" functionality and check if the relevant gets pasted "
+verify for the information(i) option and functionality on top right corner and navigates the user to external hyperlink
+verify for the information(i) option and functionality at the bottom of the page and appears with inapp popup
+verify for back functionality in secret phrase page 
+verify on going back /forth the secret phrase should be dynamic 
+Verify user should not be able to screenshot Secret phrase page 
+Verify on clicking continue Confirm secret phrase page appears 
+Verify on clciking incorrect option in word seed selection error message popup should appear 
+verify if the error message popup is dismissable on tapping outside the popup 
+Verify on tapping try again should navigate back to confirm secret phrase screen
+"verify on tapping correct seed phrase ,create passcode page should appear "
+"Verify on entering corrrect passcode ""Welcome aboard"" with wallet creation pop up appears  "
+"Verify for cross icon in ""Welcome aboard "" popup "
+"Verify on clicking Start your journey "" should navigate you to home page "
+Verify on going to settings wallet with multi coin option should be available 
+Verify the created wallet is renameable 
+"Verify on clicking the three dots ""Main wallet 1 "" screen appears "
+Verify google drive back up is still pending for Main wallet 1
+Verify delete option is functional with a popup message 
+Verify the user should be able to cancel/delete the wallet 
+"Verify the manual status of the user is ""Active "" "
+Verify on clicking the manual option enter passcode screen appears 
+Verify on entering correct code the secret phrase page should appear 
+Verify on entering incorrect passcode the page refraines 
+Verify if user is able to use keystore and restore the wallet 
+Verify if user gets assigned with a private key for the respective tokens/exchanges only
+Verify on clicking the user wallet should navigate to home page 
+Verify on clicking + option on wallets page 
+Verify if user can create multiple wallets using new wallet / exisitng wallet
+Verify when user clicks on google drive from the newly create wallet should be able to back up 
+Verify if user deletes the wallet should be erased from settings
+Verify on clicking any one user wallet  the respective should show up with tick mark 
+Verify on deleting a wallet amongst mutiple wallet user
+
+To test use case of Google DRIVE
+verify when clicking Backup to Gdrive the user should be navigated name customization of backup page 
+Verify on entering the name the continue option is enabled and functional
+Verify the entered name in backup name customization is erasable 
+Verify on clicking on continue choose an account from gmail appears 
+Verify Sign in to trust wallet using your account popup appears 
+Verify Set password screen appears to encrypt the seed phrase 
+Verify boundary value /special charecter checks for password creation 
+Verify Set encryption password option gets enabled on entering password 
+Verify confirm password screen appears on creating password
+Verify for password mismatch check 
+Verify confirm screen appears only after checking the options mentioned 
+Verify password verified screen appears on entering correct password 
+Verify post completetion of google drive back up the status should change to active
+Verify on clicking Gdrive Verify backup / delete back up should appear 
+Verify on clicking verify backup user should be navigated to enter backup password 
+Verify on choosing delete backup popup with options should appear
+Verify for successful deletion of Gdrive back up 
+verify on clicking stop and go back from delete back up popup should navigate back to Google drive backup bottom sheet 
+"Verify on successful completetion of drive deletion the users drive option should be ""backup now"""
